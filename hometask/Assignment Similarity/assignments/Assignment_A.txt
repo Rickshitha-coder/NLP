@@ -1,0 +1,4 @@
+Machine learning is a branch of artificial intelligence that allows computers to learn from data.
+It is widely used in healthcare, education, finance, and many other fields.
+Machine learning algorithms can identify patterns in data and make useful predictions.
+Supervised learning, unsupervised learning, and reinforcement learning are common types of machine learning.

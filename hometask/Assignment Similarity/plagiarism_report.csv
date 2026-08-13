@@ -1,0 +1,7 @@
+Document 1,Document 2,Similarity (%),Status
+Assignment_A.txt,Assignment_B.txt,84.71,Possible Plagiarism
+Assignment_A.txt,Assignment_C.txt,4.78,Low Similarity
+Assignment_B.txt,Assignment_C.txt,4.72,Low Similarity
+Assignment_C.txt,Assignment_D.txt,4.67,Low Similarity
+Assignment_A.txt,Assignment_D.txt,0.42,Low Similarity
+Assignment_B.txt,Assignment_D.txt,0.42,Low Similarity

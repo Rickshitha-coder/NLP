@@ -1,0 +1,3 @@
+Cybersecurity protects computers, networks, applications, and information from digital attacks.
+Security practices include authentication, encryption, access control, monitoring, and regular software updates.
+Organizations use cybersecurity techniques to protect sensitive information and maintain reliable services.
